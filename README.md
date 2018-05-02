@@ -1,5 +1,5 @@
 
-![under construction](/book/images/under_construction.gif)
+![under construction](/src/images/under_construction.gif)
 
 # phb
 Elate's "personalhåndbok".
