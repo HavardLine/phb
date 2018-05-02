@@ -26,6 +26,11 @@ Running the build command writes a static site to `docs`. This is the directory 
 
 ## Configurations
 
+### Custom CSS
+
+Custom CSS can be added in `src/styles/elate.css`
+
+### Book properties
 **book.json** properties
 ```json
  {

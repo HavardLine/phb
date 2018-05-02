@@ -1,5 +1,7 @@
 # Elate personalhandbok
 
+![under_construction](images/under_construction.gif)
+
 Velkommen til Elates personalhandbok.
 
 > OBS! Personalhandboken er under utvikling!
