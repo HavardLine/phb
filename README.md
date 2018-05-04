@@ -14,8 +14,9 @@ Git clone and run
 > npm i && npm start
 ```
 
- - [Gitbook reference](https://toolchain.gitbook.com/)
- - [Gitbook plugins](https://plugins.gitbook.com/browse)
+ - [GitBook reference](https://toolchain.gitbook.com/)
+ - [GitBook plugins](https://plugins.gitbook.com/browse)
+ - [GitBook docs](https://gitbookio.gitbooks.io/documentation/)
 
 ## Build
 

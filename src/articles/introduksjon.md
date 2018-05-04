@@ -15,13 +15,13 @@ at dictum justo.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue elementum
 justo, non facilisis lacus scelerisque quis.
 
-> Don't be an asshole
+### Don't be an asshole
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue elementum
 justo, non facilisis lacus scelerisque quis.
 
 
-## «70/30»-prinsippet
+### «70/30»-prinsippet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue elementum
 justo, non facilisis lacus scelerisque quis.

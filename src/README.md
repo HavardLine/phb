@@ -4,7 +4,7 @@
 
 Velkommen til Elates personalhandbok.
 
-> OBS! Personalhandboken er under utvikling!
+> <i class="fa fa-info-circle"></i> OBS! Personalhandboken er under utvikling!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue elementum
 justo, non facilisis lacus scelerisque quis. Nunc eu justo eget dui commodo viverra
@@ -14,3 +14,4 @@ quam enim, viverra ac velit ac, fringilla dignissim est. Mauris pretium odio tin
 feugiat consequat. Integer vitae viverra sem. Curabitur posuere faucibus fringilla.
 Duis ut scelerisque magna. Integer vel mauris ligula. Vivamus et velit lacus. Morbi
 at dictum justo.
+

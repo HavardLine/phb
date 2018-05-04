@@ -2,7 +2,7 @@
 # Lønn og annen kompensasjon
 
 Alle konsulenter hos Elate får en provisjonsbasert lønn. Denne utgjør en andel av det man
-fakturerer til kunde. Det utbetales også en `garantilønn`_, i perioder der man er mellom
+fakturerer til kunde. Det utbetales også en [garantilønn](#garantilønn), i perioder der man er mellom
 oppdrag.
 
 Lønningsdag til er satt til den 10. hver måned, og lønnen betales etterskuddsvis. Med andre ord
@@ -14,30 +14,28 @@ arbeidsdager ila. en bestemt måned. Ferieavvikling vil også være  med å påv
 være lurt å ta høyde for denne variansen, når man planlegger privatøkonomien.
 
 Som nyansatt kan det være lurt å sjekke at skattekortet er oppdatert, og korrekt med hensyn til din
-forventede lønn. Dette kan du gjøre du hos `Skatteetaten`_.
-
-
-[Skatteetaten](https://www.skatteetaten.no)
+forventede lønn. Dette kan du gjøre du hos [Skatteetaten](www.skatteetaten.no).
 
 
 ## Lønnsmodell
 
-Hos Elate har man en provisjonslønn, som følger :ref:`70/30prinsippet`. Det vil si at 70%
+Hos Elate har man en provisjonslønn, som følger [`70/30prinsippet`](articles/introduksjon.html#«7030»-prinsippet). Det vil si at 70%
 av det den ansatte omsetter for, går til å dekke lønn, pensjon, forsikring, og arbeidsgiveravgift.
 De øvrige 30% går til Elate, for å sikre en økonomisk stabilitet i selskapet – samt kunne dekkke
 garantilønn, kontorleie, osv..
 
-.. note::
-    Som nyansatt fordeles omsetningen 60/40 under prøvetiden, som er på 6 måneder.
-
-
+<p class="note">
+Som nyansatt fordeles omsetningen 60/40 under prøvetiden, som er på 6 måneder.
+</p>
 
 ## Utregning av bruttolønn
 
 Et vanlig årsverk består av ca. 1650 arbeidstimer. Videre tar vi utgangspunkt i at man
-fakturerer 1050kr i timen. Da kan man regne ut bruttolønene slik::
+fakturerer 1050kr i timen. Da kan man regne ut bruttolønene slik:
 
-    1650 timer * 1050 kr * (0.7 / 1.141 / 1.12 / 1.05) =  903 812,45 kr
+```
+1650 timer * 1050 kr * (0.7 / 1.141 / 1.12 / 1.05) =  903 812,45 kr
+```
 
 
 Dette regnestykke inkluderer:
@@ -46,7 +44,7 @@ Dette regnestykke inkluderer:
 - Feriepenger på 12% – (108 457,49 kr)
 - Pensjon på 5% – (50 613,50 kr)
 
-Den samlede kompensasjonen utgjør da 1 062 883,44 kr, medregnet pensjon og feriepenger.
+Den samlede kompensasjonen utgjør da `1 062 883,44 kr`, medregnet pensjon og feriepenger.
 
 **Lønnskalkylator**
 
@@ -56,8 +54,6 @@ Den samlede kompensasjonen utgjør da 1 062 883,44 kr, medregnet pensjon og fe
   width="400px"
   height="350px"></iframe>
 
-
-.. _`garantilønn`:
 
 ## Garantilønn
 

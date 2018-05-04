@@ -29,3 +29,31 @@
 .color-theme-2 .book-summary ul.summary::after {
   background-image: url('/images/logo-white.png');
 }
+
+/* Note blocks */
+.note {
+  background: #e7f2fa;
+  padding: 12px;
+  border-top: 28px solid #6ab0de;
+}
+.note.tip {
+  border-top-color: #1abc9c;
+  background: #dbfaf4;
+}
+.note.warning {
+  border-top-color: #f0b37e;
+  background: #ffedcc;
+}
+.note.danger {
+  border-top-color: #f29f97;
+  background: #fdf3f2;
+}
+.note::before {
+  content: "Note";
+  color: white;
+  font-weight: bolder;
+  display: block;
+  position: relative;
+  top: -39px;
+  margin-bottom: -28px;
+}
