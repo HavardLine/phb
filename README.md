@@ -20,10 +20,14 @@ Git clone and run
 
 ## Build
 
-Running the build command writes a static site to `docs`. This is the directory used by github pages to serve the site at https://elateas.github.io/phb
+Travis CI builds every PR.
+When a PR is merged to master Travis also handles deploy to the `gh-pages` branch, this is the branch used by github pages to serve the site at https://elateas.github.io/phb
 
+See [.travis.yml](./.travis.yml) for details.
+
+To run the build step locally (without deploy):
 ```bash
-> npm run build
+> npm run travis-ci
 ```
 
 ## Configurations

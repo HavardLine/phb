@@ -15,3 +15,7 @@ deploy:
   local-dir: _book
   on:
     branch: master
+
+branches: # only build master on push, PR's are build anyway
+  only: 
+    - master
