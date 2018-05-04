@@ -1,8 +1,8 @@
-# Elate personalhandbok
+# Elate personalhåndbok
 
 ![under_construction](images/under_construction.gif)
 
-Velkommen til Elates personalhandbok.
+Velkommen til Elates personalhåndbok.
 
 > <i class="fa fa-info-circle"></i> OBS! Personalhandboken er under utvikling!
 
