@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "gitbook": "gitbook",
     "start": "gitbook serve",
     "build": "gitbook build . ./docs"
   },
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/elateas/phb#readme",
   "dependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-scripts": "^1.0.2"
   }
 }

@@ -15,6 +15,7 @@ Git clone and run
 ```
 
  - [Gitbook reference](https://toolchain.gitbook.com/)
+ - [Gitbook plugins](https://plugins.gitbook.com/browse)
 
 ## Build
 
@@ -28,7 +29,11 @@ Running the build command writes a static site to `docs`. This is the directory 
 
 ### Custom CSS
 
-Custom CSS can be added in `src/styles/elate.css`
+Custom CSS can be added in `src/custom/style.css`
+
+### Custom JS
+
+Custom javascript can be added in `src/custom/script.css`
 
 ### Book properties
 **book.json** properties

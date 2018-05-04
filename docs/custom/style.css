@@ -1,0 +1,31 @@
+/* add custom css here */
+
+/* Colors
+ - primary: #44c1e7 (blue)
+ - secondary: #ff7d1b (orange)
+*/
+
+/* summary background image */
+.book-summary ul.summary {
+  position: relative;
+}
+/* place background image in meta element to be able to set opacity */
+.book-summary ul.summary::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-image: url('/images/logo-blue.png');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 80%;
+  z-index: -1;
+  opacity: 0.075;
+}
+/* lower opacity for sepia and night mode */ 
+.color-theme-1 .book-summary ul.summary::after,
+.color-theme-2 .book-summary ul.summary::after {
+  background-image: url('/images/logo-white.png');
+}

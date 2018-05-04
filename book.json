@@ -4,6 +4,17 @@
   "description": "Personalhåndbok for Elate's ansatte",
   "language": "nb",
   "styles": {
-    "website": "styles/elate.css"
+    "website": "custom/style.css"
+  },
+  "plugins": [
+    "-sharing",
+    "scripts"
+  ],
+  "pluginsConfig": {
+    "scripts": {
+      "files": [
+        "custom/script.js"
+      ]
+    }
   }
 }
