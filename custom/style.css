@@ -17,7 +17,7 @@
   right: 0;
   bottom: 0;
   top: 0;
-  background-image: url('/images/logo-blue.png');
+  background-image: url('../images/logo-blue.png');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: 80%;
@@ -27,7 +27,7 @@
 /* lower opacity for sepia and night mode */ 
 .color-theme-1 .book-summary ul.summary::after,
 .color-theme-2 .book-summary ul.summary::after {
-  background-image: url('/images/logo-white.png');
+  background-image: url('../images/logo-white.png');
 }
 
 /* Note blocks */
