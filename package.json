@@ -4,10 +4,10 @@
   "description": "Elate personalhåndbok",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "gitbook install",
     "gitbook": "gitbook",
     "start": "gitbook serve",
-    "build": "gitbook build . ./docs"
+    "travis-ci": "gitbook build"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/elateas/phb#readme",
   "dependencies": {
     "gitbook-cli": "^2.3.2",
-    "gitbook-plugin-scripts": "^1.0.2"
+    "gitbook-plugin-scripts": "^1.0.2",
+    "gitbook-plugin-github-edit": "^1.0.9"
   }
 }
