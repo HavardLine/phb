@@ -2,16 +2,21 @@
 
 ![under_construction](images/under_construction.gif)
 
-Velkommen til Elates personalhandbok.
+Velkommen til Elates personalhandbok (PHB).
 
 > <i class="fa fa-info-circle"></i> OBS! Personalhandboken er under utvikling!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue elementum
-justo, non facilisis lacus scelerisque quis. Nunc eu justo eget dui commodo viverra
-at vel erat. Quisque posuere, sem id feugiat dignissim, neque elit vestibulum justo,
-eu pretium tortor nisi sit amet ex. Nulla tempor ipsum ac viverra tempus. Suspendisse
-quam enim, viverra ac velit ac, fringilla dignissim est. Mauris pretium odio tincidunt
-feugiat consequat. Integer vitae viverra sem. Curabitur posuere faucibus fringilla.
-Duis ut scelerisque magna. Integer vel mauris ligula. Vivamus et velit lacus. Morbi
-at dictum justo.
+Här finner du all information om Elate's personalpolitik, vilket omfattar
+ * Tilbud
+ * Goder
+ * Prinsipper
+ * Policys
+ * etc...
 
+## Tips om PHB
+
+I toppmenyn finner du linker till detta repositoriet på GitHub (<i class="fa fa-github"> </i>) och länkar för att editera filen du befinner dig i (<i class="fa fa-pencil-square-o"/>).
+
+Du kan också ändra tema och teckenstorlek (<i class="fa fa-font"/>).
+
+Söket som ligger överst till vänster är ett bra sätt att återfinna specifika saker man undrar över.
