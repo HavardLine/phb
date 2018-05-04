@@ -40,6 +40,8 @@ Custom CSS can be added in `src/custom/style.css`
 
 Custom javascript can be added in `src/custom/script.css`
 
+The global variable `gitbook` is available here for all sorts of things. Check it out in devtools to see what it's got!
+
 ### Book properties
 **book.json** properties
 ```json
