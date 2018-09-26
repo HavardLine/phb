@@ -5,6 +5,7 @@
 * [Ansettelse](articles/ansettelse.md)
 * [Arbeidstid og overtid](articles/arbeidstid-og-overtid.md)
 * [Lønn og kompensasjon](articles/lonn-og-kompensasjon.md)
+  * [Internfakturering](articles/internfakturering.md)
 * [Personlig budsjett](articles/personlig-budsjett.md)
 * [Ferie og feriepenger](articles/ferie-og-feriepenger.md)
 * [Pensjon og forsikring](articles/pensjon-og-forsikring.md)
