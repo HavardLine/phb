@@ -3,6 +3,7 @@
 * [Start](README.md)
 * [Introduksjon](articles/introduksjon.md)
 * [Ansettelse](articles/ansettelse.md)
+* [Onboarding](articles/onboarding.md)
 * [Arbeidstid og overtid](articles/arbeidstid-og-overtid.md)
 * [Lønn og kompensasjon](articles/lonn-og-kompensasjon.md)
   * [Internfakturering](articles/internfakturering.md)
